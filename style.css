@@ -1,0 +1,97 @@
+.name
+{
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.question
+{
+    display: flex;
+}
+
+body
+{
+    display: flex;
+    justify-content: center;
+    background-color: bisque;
+}
+
+.container
+{
+    margin-top: 100px;
+    width: 400px;
+    border: 5px solid black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 30px;
+    font-size: 20px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+h1
+{
+    text-align: center;
+    color: coral;
+}
+
+.first
+{
+    margin-right: 20px;
+}
+
+.last
+{
+    margin-left: 10px;
+}
+
+.text
+{
+    width: 100%
+}
+
+.email
+{
+    width: 95%;
+}
+
+p input
+{
+    height: 10px;
+    width: 10px;
+}
+
+input
+{
+    background-color:rgb(248, 248, 248);
+}
+
+input:hover
+{
+    background-color: white;
+}
+
+.question
+{
+    font-size: 15px;
+}
+
+.para
+{
+    font-size: 15px;
+}
+
+button
+{
+    margin-left: 20px;
+    width: 90%;
+    height: 30px;
+    font-size: 15px;
+    background-color: coral;
+    color: white;
+}
+
+button:hover
+{
+    background-color: white;
+    color: coral;
+}
